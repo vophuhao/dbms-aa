@@ -1,0 +1,106 @@
+D:\phuhao\csdl\DBMS\DBMS\bin\Debug\DBMS.exe.config
+D:\phuhao\csdl\DBMS\DBMS\bin\Debug\DBMS.exe
+D:\phuhao\csdl\DBMS\DBMS\bin\Debug\DBMS.pdb
+D:\phuhao\csdl\DBMS\DBMS\obj\Debug\DBMS.csproj.AssemblyReference.cache
+D:\phuhao\csdl\DBMS\DBMS\obj\Debug\DBMS.addProduct.resources
+D:\phuhao\csdl\DBMS\DBMS\obj\Debug\DBMS.listProduct.resources
+D:\phuhao\csdl\DBMS\DBMS\obj\Debug\DBMS.Properties.Resources.resources
+D:\phuhao\csdl\DBMS\DBMS\obj\Debug\DBMS.csproj.GenerateResource.cache
+D:\phuhao\csdl\DBMS\DBMS\obj\Debug\DBMS.csproj.CoreCompileInputs.cache
+D:\phuhao\csdl\DBMS\DBMS\obj\Debug\DBMS.exe
+D:\phuhao\csdl\DBMS\DBMS\obj\Debug\DBMS.pdb
+D:\phuhao\csdl\DBMS\DBMS\obj\Debug\DBMS.Kho.resources
+D:\phuhao\csdl\DBMS\DBMS\obj\Debug\DBMS.taikhoantichdiem.resources
+D:\phuhao\DBMS\DBMS\DBMS\bin\Debug\DBMS.exe.config
+D:\phuhao\DBMS\DBMS\DBMS\bin\Debug\DBMS.exe
+D:\phuhao\DBMS\DBMS\DBMS\bin\Debug\DBMS.pdb
+D:\phuhao\DBMS\DBMS\DBMS\obj\Debug\DBMS.csproj.AssemblyReference.cache
+D:\phuhao\DBMS\DBMS\DBMS\obj\Debug\DBMS.addProduct.resources
+D:\phuhao\DBMS\DBMS\DBMS\obj\Debug\DBMS.addTktichdiem.resources
+D:\phuhao\DBMS\DBMS\DBMS\obj\Debug\DBMS.Kho.resources
+D:\phuhao\DBMS\DBMS\DBMS\obj\Debug\DBMS.listProduct.resources
+D:\phuhao\DBMS\DBMS\DBMS\obj\Debug\DBMS.Properties.Resources.resources
+D:\phuhao\DBMS\DBMS\DBMS\obj\Debug\DBMS.taikhoantichdiem.resources
+D:\phuhao\DBMS\DBMS\DBMS\obj\Debug\DBMS.csproj.GenerateResource.cache
+D:\phuhao\DBMS\DBMS\DBMS\obj\Debug\DBMS.csproj.CoreCompileInputs.cache
+D:\phuhao\DBMS\DBMS\DBMS\obj\Debug\DBMS.exe
+D:\phuhao\DBMS\DBMS\DBMS\obj\Debug\DBMS.pdb
+D:\phuhao\DBMS\DBMS\DBMS\obj\Debug\DBMS.taohoadonmuahang.resources
+D:\phuhao\DBMS\DBMS\DBMS\obj\Debug\DBMS.hoadonmua.resources
+C:\Users\phamn\Downloads\dbms-nn-phuhao\dbms-nn-phuhao\DBMS\DBMS\bin\Debug\DBMS.exe.config
+C:\Users\phamn\Downloads\dbms-nn-phuhao\dbms-nn-phuhao\DBMS\DBMS\bin\Debug\DBMS.exe
+C:\Users\phamn\Downloads\dbms-nn-phuhao\dbms-nn-phuhao\DBMS\DBMS\bin\Debug\DBMS.pdb
+C:\Users\phamn\Downloads\dbms-nn-phuhao\dbms-nn-phuhao\DBMS\DBMS\obj\Debug\DBMS.csproj.AssemblyReference.cache
+C:\Users\phamn\Downloads\dbms-nn-phuhao\dbms-nn-phuhao\DBMS\DBMS\obj\Debug\DBMS.addProduct.resources
+C:\Users\phamn\Downloads\dbms-nn-phuhao\dbms-nn-phuhao\DBMS\DBMS\obj\Debug\DBMS.addTktichdiem.resources
+C:\Users\phamn\Downloads\dbms-nn-phuhao\dbms-nn-phuhao\DBMS\DBMS\obj\Debug\DBMS.hoadonmua.resources
+C:\Users\phamn\Downloads\dbms-nn-phuhao\dbms-nn-phuhao\DBMS\DBMS\obj\Debug\DBMS.Kho.resources
+C:\Users\phamn\Downloads\dbms-nn-phuhao\dbms-nn-phuhao\DBMS\DBMS\obj\Debug\DBMS.listProduct.resources
+C:\Users\phamn\Downloads\dbms-nn-phuhao\dbms-nn-phuhao\DBMS\DBMS\obj\Debug\DBMS.Properties.Resources.resources
+C:\Users\phamn\Downloads\dbms-nn-phuhao\dbms-nn-phuhao\DBMS\DBMS\obj\Debug\DBMS.taikhoantichdiem.resources
+C:\Users\phamn\Downloads\dbms-nn-phuhao\dbms-nn-phuhao\DBMS\DBMS\obj\Debug\DBMS.taohoadonmuahang.resources
+C:\Users\phamn\Downloads\dbms-nn-phuhao\dbms-nn-phuhao\DBMS\DBMS\obj\Debug\DBMS.csproj.GenerateResource.cache
+C:\Users\phamn\Downloads\dbms-nn-phuhao\dbms-nn-phuhao\DBMS\DBMS\obj\Debug\DBMS.csproj.CoreCompileInputs.cache
+C:\Users\phamn\Downloads\dbms-nn-phuhao\dbms-nn-phuhao\DBMS\DBMS\obj\Debug\DBMS.exe
+C:\Users\phamn\Downloads\dbms-nn-phuhao\dbms-nn-phuhao\DBMS\DBMS\obj\Debug\DBMS.pdb
+C:\Users\DELL PRECISION 5570\Downloads\dbms-nn-phuhao\DBMS\DBMS\bin\Debug\DBMS.exe.config
+C:\Users\DELL PRECISION 5570\Downloads\dbms-nn-phuhao\DBMS\DBMS\bin\Debug\DBMS.exe
+C:\Users\DELL PRECISION 5570\Downloads\dbms-nn-phuhao\DBMS\DBMS\bin\Debug\DBMS.pdb
+C:\Users\DELL PRECISION 5570\Downloads\dbms-nn-phuhao\DBMS\DBMS\obj\Debug\DBMS.csproj.AssemblyReference.cache
+C:\Users\DELL PRECISION 5570\Downloads\dbms-nn-phuhao\DBMS\DBMS\obj\Debug\DBMS.addProduct.resources
+C:\Users\DELL PRECISION 5570\Downloads\dbms-nn-phuhao\DBMS\DBMS\obj\Debug\DBMS.addTktichdiem.resources
+C:\Users\DELL PRECISION 5570\Downloads\dbms-nn-phuhao\DBMS\DBMS\obj\Debug\DBMS.hoadonmua.resources
+C:\Users\DELL PRECISION 5570\Downloads\dbms-nn-phuhao\DBMS\DBMS\obj\Debug\DBMS.Kho.resources
+C:\Users\DELL PRECISION 5570\Downloads\dbms-nn-phuhao\DBMS\DBMS\obj\Debug\DBMS.listProduct.resources
+C:\Users\DELL PRECISION 5570\Downloads\dbms-nn-phuhao\DBMS\DBMS\obj\Debug\DBMS.Properties.Resources.resources
+C:\Users\DELL PRECISION 5570\Downloads\dbms-nn-phuhao\DBMS\DBMS\obj\Debug\DBMS.taikhoantichdiem.resources
+C:\Users\DELL PRECISION 5570\Downloads\dbms-nn-phuhao\DBMS\DBMS\obj\Debug\DBMS.taohoadonmuahang.resources
+C:\Users\DELL PRECISION 5570\Downloads\dbms-nn-phuhao\DBMS\DBMS\obj\Debug\DBMS.csproj.GenerateResource.cache
+C:\Users\DELL PRECISION 5570\Downloads\dbms-nn-phuhao\DBMS\DBMS\obj\Debug\DBMS.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRECISION 5570\Downloads\dbms-nn-phuhao\DBMS\DBMS\obj\Debug\DBMS.exe
+C:\Users\DELL PRECISION 5570\Downloads\dbms-nn-phuhao\DBMS\DBMS\obj\Debug\DBMS.pdb
+C:\Users\DELL PRECISION 5570\Downloads\dbms-nn-phuhao\DBMS\DBMS\obj\Debug\DBMS.editProduct.resources
+C:\Users\DELL PRECISION 5570\Downloads\dbms-nn-phuhao\DBMS\DBMS\obj\Debug\DBMS.BaoCaoDoanhThu.resources
+C:\Users\Mun\Downloads\DBMS\DBMS\bin\Debug\DBMS.exe.config
+C:\Users\Mun\Downloads\DBMS\DBMS\bin\Debug\DBMS.exe
+C:\Users\Mun\Downloads\DBMS\DBMS\bin\Debug\DBMS.pdb
+C:\Users\Mun\Downloads\DBMS\DBMS\obj\Debug\DBMS.csproj.AssemblyReference.cache
+C:\Users\Mun\Downloads\DBMS\DBMS\obj\Debug\DBMS.addProduct.resources
+C:\Users\Mun\Downloads\DBMS\DBMS\obj\Debug\DBMS.addTktichdiem.resources
+C:\Users\Mun\Downloads\DBMS\DBMS\obj\Debug\DBMS.BaoCaoDoanhThu.resources
+C:\Users\Mun\Downloads\DBMS\DBMS\obj\Debug\DBMS.editProduct.resources
+C:\Users\Mun\Downloads\DBMS\DBMS\obj\Debug\DBMS.hoadonmua.resources
+C:\Users\Mun\Downloads\DBMS\DBMS\obj\Debug\DBMS.Kho.resources
+C:\Users\Mun\Downloads\DBMS\DBMS\obj\Debug\DBMS.listProduct.resources
+C:\Users\Mun\Downloads\DBMS\DBMS\obj\Debug\DBMS.Properties.Resources.resources
+C:\Users\Mun\Downloads\DBMS\DBMS\obj\Debug\DBMS.taikhoantichdiem.resources
+C:\Users\Mun\Downloads\DBMS\DBMS\obj\Debug\DBMS.taohoadonmuahang.resources
+C:\Users\Mun\Downloads\DBMS\DBMS\obj\Debug\DBMS.xemHoaDon.resources
+C:\Users\Mun\Downloads\DBMS\DBMS\obj\Debug\DBMS.csproj.GenerateResource.cache
+C:\Users\Mun\Downloads\DBMS\DBMS\obj\Debug\DBMS.csproj.CoreCompileInputs.cache
+C:\Users\Mun\Downloads\DBMS\DBMS\obj\Debug\DBMS.exe
+C:\Users\Mun\Downloads\DBMS\DBMS\obj\Debug\DBMS.pdb
+C:\Users\Mun\Downloads\DBMS\DBMS\obj\Debug\DBMS.xemChiTietHoaDon.resources
+C:\Users\DELL PRECISION 5570\Downloads\DBMSs\DBMS\bin\Debug\DBMS.exe.config
+C:\Users\DELL PRECISION 5570\Downloads\DBMSs\DBMS\bin\Debug\DBMS.exe
+C:\Users\DELL PRECISION 5570\Downloads\DBMSs\DBMS\bin\Debug\DBMS.pdb
+C:\Users\DELL PRECISION 5570\Downloads\DBMSs\DBMS\obj\Debug\DBMS.csproj.AssemblyReference.cache
+C:\Users\DELL PRECISION 5570\Downloads\DBMSs\DBMS\obj\Debug\DBMS.BaoCaoDoanhThu.resources
+C:\Users\DELL PRECISION 5570\Downloads\DBMSs\DBMS\obj\Debug\DBMS.hoadonmua.resources
+C:\Users\DELL PRECISION 5570\Downloads\DBMSs\DBMS\obj\Debug\DBMS.Properties.Resources.resources
+C:\Users\DELL PRECISION 5570\Downloads\DBMSs\DBMS\obj\Debug\DBMS.taohoadonmuahang.resources
+C:\Users\DELL PRECISION 5570\Downloads\DBMSs\DBMS\obj\Debug\DBMS.xemChiTietHoaDon.resources
+C:\Users\DELL PRECISION 5570\Downloads\DBMSs\DBMS\obj\Debug\DBMS.xemHoaDon.resources
+C:\Users\DELL PRECISION 5570\Downloads\DBMSs\DBMS\obj\Debug\DBMS.csproj.GenerateResource.cache
+C:\Users\DELL PRECISION 5570\Downloads\DBMSs\DBMS\obj\Debug\DBMS.csproj.CoreCompileInputs.cache
+C:\Users\DELL PRECISION 5570\Downloads\DBMSs\DBMS\obj\Debug\DBMS.exe
+C:\Users\DELL PRECISION 5570\Downloads\DBMSs\DBMS\obj\Debug\DBMS.pdb
+C:\Users\DELL PRECISION 5570\Downloads\DBMSs\DBMS\obj\Debug\DBMS.ThemSanPham.resources
+C:\Users\DELL PRECISION 5570\Downloads\DBMSs\DBMS\obj\Debug\DBMS.ThemTKTD.resources
+C:\Users\DELL PRECISION 5570\Downloads\DBMSs\DBMS\obj\Debug\DBMS.Dashboard.resources
+C:\Users\DELL PRECISION 5570\Downloads\DBMSs\DBMS\obj\Debug\DBMS.SuaSanPham.resources
+C:\Users\DELL PRECISION 5570\Downloads\DBMSs\DBMS\obj\Debug\DBMS.HoaDonNhap.resources
+C:\Users\DELL PRECISION 5570\Downloads\DBMSs\DBMS\obj\Debug\DBMS.SanPhamTrongKho.resources
+C:\Users\DELL PRECISION 5570\Downloads\DBMSs\DBMS\obj\Debug\DBMS.DanhSachSanPham.resources
+C:\Users\DELL PRECISION 5570\Downloads\DBMSs\DBMS\obj\Debug\DBMS.TaoHoaDonNhapHang.resources
+C:\Users\DELL PRECISION 5570\Downloads\DBMSs\DBMS\obj\Debug\DBMS.DanhSachTKTD.resources

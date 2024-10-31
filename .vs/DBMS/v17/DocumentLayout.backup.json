@@ -1,0 +1,501 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mun\\Downloads\\DBMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|c:\\users\\mun\\downloads\\dbms\\dbms\\xemchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\xemchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|c:\\users\\mun\\downloads\\dbms\\dbms\\xemchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\xemchitiethoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|c:\\users\\mun\\downloads\\dbms\\dbms\\xemchitiethoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\xemchitiethoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|C:\\Users\\Mun\\Downloads\\DBMS\\dbms\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|c:\\users\\mun\\downloads\\dbms\\dbms\\xemhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\xemhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|c:\\users\\mun\\downloads\\dbms\\dbms\\xemhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\xemhoadon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|C:\\Users\\Mun\\Downloads\\DBMS\\dbms\\nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|C:\\Users\\Mun\\Downloads\\DBMS\\dbms\\nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\nhaphang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|c:\\users\\mun\\downloads\\dbms\\dbms\\xemhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\xemhoadon.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|C:\\Users\\Mun\\Downloads\\DBMS\\dbms\\tichdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\tichdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|C:\\Users\\Mun\\Downloads\\DBMS\\dbms\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|C:\\Users\\Mun\\Downloads\\DBMS\\dbms\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\listproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|c:\\users\\mun\\downloads\\dbms\\dbms\\khoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\khoclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|C:\\Users\\Mun\\Downloads\\DBMS\\dbms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|C:\\Users\\Mun\\Downloads\\DBMS\\dbms\\doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\doanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|c:\\users\\mun\\downloads\\dbms\\dbms\\muahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\muahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|c:\\users\\mun\\downloads\\dbms\\dbms\\mydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\mydb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|c:\\users\\mun\\downloads\\dbms\\dbms\\hoadonmua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\hoadonmua.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|C:\\Users\\Mun\\Downloads\\DBMS\\dbms\\taohoadonmuahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\taohoadonmuahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|C:\\Users\\Mun\\Downloads\\DBMS\\dbms\\taohoadonmuahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\taohoadonmuahang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|C:\\Users\\Mun\\Downloads\\DBMS\\dbms\\kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\kho.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|C:\\Users\\Mun\\Downloads\\DBMS\\dbms\\editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|C:\\Users\\Mun\\Downloads\\DBMS\\dbms\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|C:\\Users\\Mun\\Downloads\\DBMS\\dbms\\baocaodoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\baocaodoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|C:\\Users\\Mun\\Downloads\\DBMS\\dbms\\baocaodoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\baocaodoanhthu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|C:\\Users\\Mun\\Downloads\\DBMS\\dbms\\taikhoantichdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\taikhoantichdiem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|C:\\Users\\Mun\\Downloads\\DBMS\\dbms\\editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\editproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|C:\\Users\\Mun\\Downloads\\DBMS\\dbms\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{539403F1-D63E-4B0E-9A44-0D961828F068}|DBMS\\DBMS.csproj|solutionrelative:dbms\\addproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "xemChiTietHoaDon.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\xemChiTietHoaDon.Designer.cs",
+              "RelativeDocumentMoniker": "DBMS\\xemChiTietHoaDon.Designer.cs",
+              "ToolTip": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\xemChiTietHoaDon.Designer.cs",
+              "RelativeToolTip": "DBMS\\xemChiTietHoaDon.Designer.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAIAwwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:27:25.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "xemChiTietHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\xemChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "DBMS\\xemChiTietHoaDon.cs",
+              "ToolTip": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\xemChiTietHoaDon.cs",
+              "RelativeToolTip": "DBMS\\xemChiTietHoaDon.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAlwBsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:12:32.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "xemChiTietHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\xemChiTietHoaDon.cs",
+              "RelativeDocumentMoniker": "DBMS\\xemChiTietHoaDon.cs",
+              "ToolTip": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\xemChiTietHoaDon.cs [Design]",
+              "RelativeToolTip": "DBMS\\xemChiTietHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T14:12:07.606Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "xemHoaDon.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\xemHoaDon.Designer.cs",
+              "RelativeDocumentMoniker": "DBMS\\xemHoaDon.Designer.cs",
+              "ToolTip": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\xemHoaDon.Designer.cs",
+              "RelativeToolTip": "DBMS\\xemHoaDon.Designer.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAIAwwF8AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:32:19.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "muahang.cs",
+              "DocumentMoniker": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\muahang.cs",
+              "RelativeDocumentMoniker": "DBMS\\muahang.cs",
+              "ToolTip": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\muahang.cs",
+              "RelativeToolTip": "DBMS\\muahang.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:09:48.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "khoclass.cs",
+              "DocumentMoniker": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\khoclass.cs",
+              "RelativeDocumentMoniker": "DBMS\\khoclass.cs",
+              "ToolTip": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\khoclass.cs",
+              "RelativeToolTip": "DBMS\\khoclass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:09:45.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "xemHoaDon.cs",
+              "DocumentMoniker": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\xemHoaDon.cs",
+              "RelativeDocumentMoniker": "DBMS\\xemHoaDon.cs",
+              "ToolTip": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\xemHoaDon.cs",
+              "RelativeToolTip": "DBMS\\xemHoaDon.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAIAwwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T13:04:08.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "mydb.cs",
+              "DocumentMoniker": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\mydb.cs",
+              "RelativeDocumentMoniker": "DBMS\\mydb.cs",
+              "ToolTip": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\mydb.cs",
+              "RelativeToolTip": "DBMS\\mydb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAACVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:58:39.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "xemHoaDon.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\xemHoaDon.cs",
+              "RelativeDocumentMoniker": "DBMS\\xemHoaDon.cs",
+              "ToolTip": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\xemHoaDon.cs [Design]",
+              "RelativeToolTip": "DBMS\\xemHoaDon.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:58:16.971Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "hoadonmua.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\hoadonmua.cs",
+              "RelativeDocumentMoniker": "DBMS\\hoadonmua.cs",
+              "ToolTip": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\hoadonmua.cs [Design]",
+              "RelativeToolTip": "DBMS\\hoadonmua.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:55:23.158Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "tichdiem.cs",
+              "DocumentMoniker": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\tichdiem.cs",
+              "RelativeDocumentMoniker": "DBMS\\tichdiem.cs",
+              "ToolTip": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\tichdiem.cs",
+              "RelativeToolTip": "DBMS\\tichdiem.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAuwDYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:55:23.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BaoCaoDoanhThu.cs",
+              "DocumentMoniker": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\BaoCaoDoanhThu.cs",
+              "RelativeDocumentMoniker": "DBMS\\BaoCaoDoanhThu.cs",
+              "ToolTip": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\BaoCaoDoanhThu.cs",
+              "RelativeToolTip": "DBMS\\BaoCaoDoanhThu.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwBwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:55:23.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BaoCaoDoanhThu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\BaoCaoDoanhThu.cs",
+              "RelativeDocumentMoniker": "DBMS\\BaoCaoDoanhThu.cs",
+              "ToolTip": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\BaoCaoDoanhThu.cs [Design]",
+              "RelativeToolTip": "DBMS\\BaoCaoDoanhThu.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:55:23.164Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "doanhthu.cs",
+              "DocumentMoniker": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\doanhthu.cs",
+              "RelativeDocumentMoniker": "DBMS\\doanhthu.cs",
+              "ToolTip": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\doanhthu.cs",
+              "RelativeToolTip": "DBMS\\doanhthu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:55:23.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "nhapHang.cs",
+              "DocumentMoniker": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\nhapHang.cs",
+              "RelativeDocumentMoniker": "DBMS\\nhapHang.cs",
+              "ToolTip": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\nhapHang.cs",
+              "RelativeToolTip": "DBMS\\nhapHang.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAtwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:55:23.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "nhapHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\nhapHang.cs",
+              "RelativeDocumentMoniker": "DBMS\\nhapHang.cs",
+              "ToolTip": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\nhapHang.cs [Design]",
+              "RelativeToolTip": "DBMS\\nhapHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:55:23.164Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\Program.cs",
+              "RelativeDocumentMoniker": "DBMS\\Program.cs",
+              "ToolTip": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\Program.cs",
+              "RelativeToolTip": "DBMS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:55:23.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Kho.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\Kho.cs",
+              "RelativeDocumentMoniker": "DBMS\\Kho.cs",
+              "ToolTip": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\Kho.cs [Design]",
+              "RelativeToolTip": "DBMS\\Kho.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:55:23.167Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "taikhoantichdiem.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\taikhoantichdiem.cs",
+              "RelativeDocumentMoniker": "DBMS\\taikhoantichdiem.cs",
+              "ToolTip": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\taikhoantichdiem.cs [Design]",
+              "RelativeToolTip": "DBMS\\taikhoantichdiem.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:55:23.167Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "product.cs",
+              "DocumentMoniker": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\product.cs",
+              "RelativeDocumentMoniker": "DBMS\\product.cs",
+              "ToolTip": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\product.cs",
+              "RelativeToolTip": "DBMS\\product.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAswIAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:55:23.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "addProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\addProduct.cs",
+              "RelativeDocumentMoniker": "DBMS\\addProduct.cs",
+              "ToolTip": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\addProduct.cs",
+              "RelativeToolTip": "DBMS\\addProduct.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:55:23.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "addProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\addProduct.cs",
+              "RelativeDocumentMoniker": "DBMS\\addProduct.cs",
+              "ToolTip": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\addProduct.cs [Design]",
+              "RelativeToolTip": "DBMS\\addProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:55:23.168Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "taohoadonmuahang.cs",
+              "DocumentMoniker": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\taohoadonmuahang.cs",
+              "RelativeDocumentMoniker": "DBMS\\taohoadonmuahang.cs",
+              "ToolTip": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\taohoadonmuahang.cs",
+              "RelativeToolTip": "DBMS\\taohoadonmuahang.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAwGQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:55:23.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "taohoadonmuahang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\taohoadonmuahang.cs",
+              "RelativeDocumentMoniker": "DBMS\\taohoadonmuahang.cs",
+              "ToolTip": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\taohoadonmuahang.cs [Design]",
+              "RelativeToolTip": "DBMS\\taohoadonmuahang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:55:23.375Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "listProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\listProduct.cs",
+              "RelativeDocumentMoniker": "DBMS\\listProduct.cs",
+              "ToolTip": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\listProduct.cs",
+              "RelativeToolTip": "DBMS\\listProduct.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:55:23.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "listProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\listProduct.cs",
+              "RelativeDocumentMoniker": "DBMS\\listProduct.cs",
+              "ToolTip": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\listProduct.cs [Design]",
+              "RelativeToolTip": "DBMS\\listProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:55:23.375Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "editProduct.cs",
+              "DocumentMoniker": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\editProduct.cs",
+              "RelativeDocumentMoniker": "DBMS\\editProduct.cs",
+              "ToolTip": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\editProduct.cs",
+              "RelativeToolTip": "DBMS\\editProduct.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAcwDcAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:55:23.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "editProduct.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\editProduct.cs",
+              "RelativeDocumentMoniker": "DBMS\\editProduct.cs",
+              "ToolTip": "C:\\Users\\Mun\\Downloads\\DBMS\\DBMS\\editProduct.cs [Design]",
+              "RelativeToolTip": "DBMS\\editProduct.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:55:23.375Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
